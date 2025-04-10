@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/StarterContent/Blueprints/GameMode/GMS.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/StarterContent/Blueprints/Pawns/BP_Character.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/Input/IMC_MapingExample.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/Input/IA_Movement.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/ThirdPerson/Blueprints/Animations/APP_BPAnimationClass.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/ThirdPerson/Input/Actions/IA_Vista.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/Retargeting/IKR_Monster.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/Retargeting/IKR_Archer.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/Retargeting/IK_Archer.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/Retargeting/IK_retar.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/Locomotion/ANB_Archer.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/Drakonit_monster/Mech/AB.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/Locomotion/X_Bot.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/Locomotion/Beta_HighLimbsGeoSG3.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/Locomotion/Beta_Joints_MAT1.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/Locomotion/X_Bot_Skeleton.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/Locomotion/X_Bot_PhysicsAsset.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/Locomotion/standing_idle_01.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/Locomotion/standing_run_back.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/Locomotion/standing_run_forward_stop.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/Locomotion/standing_run_forward.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/Locomotion/standing_run_left.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/Locomotion/standing_run_right.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/Locomotion/standing_turn_90_left.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/Locomotion/standing_turn_90_right.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/Locomotion/standing_walk_back.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/Locomotion/standing_walk_forward.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/Locomotion/standing_walk_left.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/Locomotion/standing_walk_right.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/Drakonit_monster/Animation/RunBackstanding_run_back.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/Characters/Mannequin_UE4/Animations/Jog_Fwd.uasset"
+			]
+		}
+	]
+}
