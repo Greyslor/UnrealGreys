@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Azul2/Documents/Unreal Projects/UnrealGreys/Greys/Content/Actors/Bullet.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/UnrealGreys/Greys/Content/Actors/Turret.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/UnrealGreys/Greys/Content/StarterContent/Blueprints/Pawns/BP_Character.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/UnrealGreys/Greys/Content/Widgets/WG_HUD.uasset",
+				"C:/Users/Azul2/Documents/Unreal Projects/UnrealGreys/Greys/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/StarterContent/Blueprints/GameMode/GMS.uasset",
 				"C:/Users/Azul2/Documents/Unreal Projects/Greys/Content/StarterContent/Blueprints/Pawns/BP_Character.uasset",
